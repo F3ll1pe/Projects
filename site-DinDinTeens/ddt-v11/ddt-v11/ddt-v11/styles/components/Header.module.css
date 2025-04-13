@@ -1,0 +1,67 @@
+.navbar {
+  border-radius: 0;
+  background-color: #681182;
+  text-align: center;
+  position: relative;
+  color: white;
+  padding-right: 800px;
+  font-size: 17px;
+}
+
+.opcao{
+  color: white;
+  padding-left: 15px;
+}
+
+.opcaomaster{
+  margin-bottom: 5px;
+  font-size: 22px;
+}
+
+.formBuscar{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10000;
+}
+
+.logo {
+  text-align: left;
+  float: right;
+}
+
+.navbarbrand {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.buscar {
+  height: 35px;
+  margin-top: 3px;
+  margin-right: 5px;
+  position: relative;
+  float: left;
+  text-align: justify;
+  background-color: white;
+  width: 120px;
+  border-radius: 15px;
+}
+
+.pesquisar {
+  margin-top: 0px;
+  position: relative;
+  float: left;
+  text-align: justify;
+  border-radius: 20px;
+  background-color: lightgreen;
+}
+
+.link {
+  margin-top: 2.5px;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+  background-color: white;
+}
